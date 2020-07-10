@@ -1,14 +1,15 @@
-# The-privacy-policy-of-JiSuTiYuGuan
+# The-privacy-policy-of-TianTianJiSuTiYu
+
 This App knows the importance of personal information to you and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and to protecting your personal information by adhering to the following principles: the principle of consistent authority and responsibility, the principle of clear purpose, the principle of optional consent, the principle of least sufficient, the principle of ensuring safety, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded by electronic or other means that can identify the identity of a particular natural person or reflect the activities of a particular natural person individually or in combination with other information. We will only collect and use your personal Information for the following purposes set forth in this Policy:
-(I) Provide you with the booking service of the sports arena
+(I) To provide you with the purchase of ball games equipment services
 1. Business Function 1: Register as a user
 To complete the account creation, you need to provide the following information: mobile phone number, created account and password.
 The information provided by you will continue to be authorized for the duration of your use of the Service. When you cancel your account, we will stop using and delete the above information.
 The above information will be stored in the People's Republic of China. If cross-border transmission is required, we will obtain your authorization alone.
-2. Business Function 2: We will show you our various sports arenas
-We show all kinds of sports arenas
+2. Business Function 2: We will show you all kinds of ball games equipment we sell
+We show all kinds of ball games equipment
 (II) Carry out internal data analysis and research, third-party SDK statistics services, and improve our products or services
 We collect data based on your interactions with us and the choices you make, including your privacy Settings and the products and features you use. We collect data may include the SDK/API/JS code version, browser, Internet service providers (isps), IP address, platform, timestamp, identifier, version of the application, the application distribution channels, independent device identifier, iOS advertising identifier (IDFA), android advertisers identifier, nic (MAC) address, international mobile equipment identification number (IMEI), equipment type, terminal manufacturers, terminal equipment operating system version, session start/stop time, local language, time zone and network status (WiFi, etc.), hard disk, CPU, and battery usage, etc.
 We will seek your prior consent when we wish to use the information for other purposes not specified in this Policy.
