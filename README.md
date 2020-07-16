@@ -1,4 +1,4 @@
-# The-privacy-policy-of-TianTianJiSuTiYu
+# The-privacy-policy-of-XueYuanYuan
 
 This App knows the importance of personal information to you and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and to protecting your personal information by adhering to the following principles: the principle of consistent authority and responsibility, the principle of clear purpose, the principle of optional consent, the principle of least sufficient, the principle of ensuring safety, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 How do we collect and use your personal information
